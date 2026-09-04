@@ -2,6 +2,7 @@
 
 This document provides a comprehensive, professional comparison between the **Claude Code + Firecrawl MCP (Agentic)** approach and the **n8n (Deterministic)** approach for automating Go-To-Market (GTM) processes, specifically B2B lead generation and personalized cold outreach.
 
+* n8n workflow repo: https://github.com/jinyeong-park/n8n-workflow-backup/tree/main
 ---
 
 ## 1. Executive Summary
